@@ -1,7 +1,6 @@
 Day 6: Progress Review and Incident Response
 
-Scheduled Date: October 24, 2026
-Catch-Up Date: October 27, 2026
+Date: October 24, 2026
 Journey: 60 Days of Cybersecurity
 Focus: Progress Review, Catch-Up, and Incident Response
 
