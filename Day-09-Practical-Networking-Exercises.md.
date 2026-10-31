@@ -1,0 +1,45 @@
+Day 9: Practical Networking Exercises
+
+Date: October 27, 2026
+Journey: 60 Days of Cybersecurity
+Focus: Network Troubleshooting, IP Addressing, and Subnetting
+
+Objective
+
+To strengthen my understanding of network connectivity, IP addressing, subnetting, and basic network troubleshooting.
+
+Activities Completed
+
+- Practised interpreting network configuration and connectivity test results.
+- Reviewed the functions of "ipconfig", "ping", and "nslookup".
+- Explored IP addressing, subnets, and default gateways.
+- Practised identifying network and broadcast addresses.
+- Worked through CIDR notation and usable host calculations.
+- Examined how ICMP filtering can affect ping results without necessarily preventing internet access.
+- Explored HTTP/HTTPS as alternative ways to test connectivity.
+
+Key Takeaways
+
+- A successful DNS lookup confirms that domain name resolution is working, not necessarily that a website is accessible.
+- Default gateways provide a route to networks outside the local subnet.
+- CIDR notation determines the division between network and host portions of an IP address.
+- Network and broadcast addresses are reserved and cannot normally be assigned to individual hosts.
+- A failed ping does not automatically mean there is no internet connectivity.
+
+Reflection
+
+Today's exercises improved my understanding of network troubleshooting and subnetting. I was able to apply networking concepts to practical scenarios and identify possible causes of connectivity problems.
+
+I also recognised that I need more practice with subnet calculations and interpreting diagnostic results.
+
+Self-assessment: 3.5/5.
+
+Next Steps
+
+- Practise more subnetting calculations.
+- Continue improving network troubleshooting skills.
+- Proceed with Cisco coursework.
+
+Status
+
+Day 9 activities completed.
